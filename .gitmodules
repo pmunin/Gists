@@ -7,3 +7,5 @@
 [submodule "2e48f13dc8f6673752a2"]
 	path = 2e48f13dc8f6673752a2
 	url = https://gist.github.com/2e48f13dc8f6673752a2.git
+	branch = master
+
