@@ -10,4 +10,4 @@
 	branch = master
 [submodule "0733f3bffa24ad2257ac"]
 	path = 0733f3bffa24ad2257ac
-	url = google.com
+	url = https://gist.github.com/0733f3bffa24ad2257ac.git
